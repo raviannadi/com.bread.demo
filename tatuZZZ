@@ -1,0 +1,36 @@
+[33mcommit ebfbd9828ec4e386a243cb6963feb5b81fbb9510[m
+Author: rannadi <raviannadi@gmail.com>
+Date:   Sun Mar 9 16:40:32 2014 +0530
+
+     completed coding
+
+[33mcommit 484889c38bc460452a515369c283189843a1bf1c[m
+Merge: 624e5b9 e0fbc49
+Author: rannadi <raviannadi@gmail.com>
+Date:   Sun Mar 9 16:38:12 2014 +0530
+
+    Merge branch 'master' of github.com:raviannadi/com.bread.demo into r2_contacts
+
+[33mcommit e0fbc4956355fad35ce791c8dc8e7aeb2fdaec55[m
+Author: rannadi <raviannadi@gmail.com>
+Date:   Sun Mar 9 16:31:31 2014 +0530
+
+    bug fixes v1.1 for productions
+
+[33mcommit 624e5b924625b176868c479d66e4f74bf6bafe44[m
+Author: rannadi <raviannadi@gmail.com>
+Date:   Sun Mar 9 16:24:36 2014 +0530
+
+    contacts
+
+[33mcommit f06d595221b0d3cb45a001b70e8b95853c85794b[m
+Author: rannadi <raviannadi@gmail.com>
+Date:   Sun Mar 9 16:12:10 2014 +0530
+
+    finished for first release
+
+[33mcommit bf60bbb08ec14b15ec1f23010064ec11412371e9[m
+Author: rannadi <raviannadi@gmail.com>
+Date:   Sun Mar 9 16:07:35 2014 +0530
+
+    initial commit of bread website
